@@ -1323,7 +1323,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 68.8848 91.44 0)
 			(effects
 				(font
@@ -1529,7 +1529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.122 109.22 90)
 			(effects
 				(font
@@ -1656,7 +1656,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "6.3v 100uF"
 			(at 92.71 97.4089 0)
 			(effects
 				(font
@@ -1665,7 +1665,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 87.9348 91.44 0)
 			(effects
 				(font
